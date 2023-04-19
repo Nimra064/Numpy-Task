@@ -27,9 +27,9 @@ Bread … … … … … <br>
 ## CrunchieMunchies
 You work in marketing for a food company myCorps, which is developing a new kind of tasty, wholesome cereal called CrunchieMunchies.You want to demonstrate to consumers how healthy your cereal is in comparison to other leading brands, so you’ve dug up nutritional data on several different competitors. Your task is to use NumPy statistical calculations to analyze this data and prove that your CrunchieMunchies is the healthiest choice for consumers.<br>
 
-1.Look over the cereal.csv file. link here : https://github.com/Nimra064/Numpy-Task/blob/master/NumpyTask2/cereal.csv  This file contains the reported calorie amounts for different cereal brands. Load the data from the file and save it as calorie_stats.
-3. There are 60 calories per serving of CrunchieMunchies. How much higher is the average calorie count of your competition?Save the answer to the variable average_calories and print the variable to the terminal to see the answer.
-4. Does the average calorie count adequately reflect the distribution of the dataset? Let’s sort the data and see. Sort the data and save the result to the variable calorie_stats_sorted. Print the sorted data to the terminal.
+1.Look over the cereal.csv file. link here : https://github.com/Nimra064/Numpy-Task/blob/master/NumpyTask2/cereal.csv  This file contains the reported calorie amounts for different cereal brands. Load the data from the file and save it as calorie_stats.<br>
+3. There are 60 calories per serving of CrunchieMunchies. How much higher is the average calorie count of your competition?Save the answer to the variable average_calories and print the variable to the terminal to see the answer. <br>
+4. Does the average calorie count adequately reflect the distribution of the dataset? Let’s sort the data and see. Sort the data and save the result to the variable calorie_stats_sorted. Print the sorted data to the terminal. <br>
 5. Do you see what I’m seeing? Looks like the majority of the cereals are higher than the mean. Let’s see if the median is a better representative of the dataset.
 Calculate the median of the dataset and save your answer to median_calories. Print the median so you can see how it compares to the mean.<br>
 
