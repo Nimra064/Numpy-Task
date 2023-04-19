@@ -55,8 +55,8 @@ You’re part of an impartial research group that conducts phone surveys prior t
 4. In the real election, 54% of the 10,000 town population voted for I_Khan. Your supervisors are concerned because this is a very different outcome than what the poll predicted. They want you to determine if there is something wrong with the poll or if given the sample size, it was an entirely reasonable result.
 
 Generate a binomial distribution that takes the number of total survey responses, the actual success rate, and the size of the town’s population as its parameters. Then divide the distribution by the number of survey responses. Save your calculation to the variable possible_surveys. <br> 
-5. By using matplotlib Plot a histogram of possible_surveys with a range of 0-1 and 20 bins. <br>
-https://github.com/Nimra064/Numpy-Task/issues/1 <br>
+5. By using matplotlib Plot a histogram of possible_surveys with a range of 0-1 and 20 bins. <br><img width="294" alt="Histogram" src="https://user-images.githubusercontent.com/71897920/232977540-89a07bb8-1005-4dbe-bbdb-8b98741d4fcd.png">
+ <br>
 6. As we saw, 47% of people we surveyed said they would vote for I_Khan, but 54% of people voted for I_Khan in the actual election.Calculate the percentage of surveys that could have an outcome of I_Khan receiving less than 50% of the vote and save it to the variable I_Khan_loss_surveys.Print the variable to the terminal.<br>
 7. With this current poll, about 20% of the time a survey output would predict S_Sharif winning, even if I_Khan won the actual election.Your co-worker points out that your poll would be more accurate if it had more responders.Generate another binomial distribution, but this time, see what would happen if you had instead surveyed 7,000 people. Divide the distribution by the size of the survey and save your findings to large_survey.<br>
 8. Now, recalculate the percentage of surveys that would have an outcome of I_Khan losing and save it to the variable I_Khan_loss_new, and print the value to the terminal.What do we notice about this new value? What advice would you give to your supervisors about predicting results from surveys? <br>
