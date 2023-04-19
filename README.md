@@ -33,15 +33,15 @@ You work in marketing for a food company myCorps, which is developing a new kind
 5. Do you see what I’m seeing? Looks like the majority of the cereals are higher than the mean. Let’s see if the median is a better representative of the dataset.
 Calculate the median of the dataset and save your answer to median_calories. Print the median so you can see how it compares to the mean.<br>
 
-5. While the median demonstrates that at least half of our values are over 100 calories, it would be more impressive to show that a significant portion of the competition has a higher calorie count that CrunchieMunchies. Calculate different percentiles and print them to the terminal until you find the lowest percentile that is greater than 60 calories. Save this value to the variable nth_percentile.<br>
+6. While the median demonstrates that at least half of our values are over 100 calories, it would be more impressive to show that a significant portion of the competition has a higher calorie count that CrunchieMunchies. Calculate different percentiles and print them to the terminal until you find the lowest percentile that is greater than 60 calories. Save this value to the variable nth_percentile.<br>
 
-6. .While the percentile shows us thatthe majority of the competition has a much higher calorie count, it’s an awkward concept to use in marketing materials.Instead, let’s calculate the percentage of cereals that have more than 60 calories per serving. Save your answer to the variable more_calories and print it to the terminal. <br>
+7. .While the percentile shows us thatthe majority of the competition has a much higher calorie count, it’s an awkward concept to use in marketing materials.Instead, let’s calculate the percentage of cereals that have more than 60 calories per serving. Save your answer to the variable more_calories and print it to the terminal. <br>
 
-7. While the percentile shows us thatthe majority of the competition has a much higher calorie count, it’s an awkward concept to use in marketing materials.Instead, let’s calculate the percentage of cereals that have more than 60 calories per serving. Save your answer to the variable more_calories and print it to the terminal. <br>
+8. While the percentile shows us thatthe majority of the competition has a much higher calorie count, it’s an awkward concept to use in marketing materials.Instead, let’s calculate the percentage of cereals that have more than 60 calories per serving. Save your answer to the variable more_calories and print it to the terminal. <br>
 
-8. Wow! That’s a really high percentage. That’s going to be very useful when we promote CrunchieMunchies. But one question is, how much variation exists in the dataset? Can we make the generalization that most cereals have around 100 calories or is the spread even greater? Calculate the amount of variation by finding the standard deviation</em Save your answer to calorie_std and print to the terminal. How can we incorporate this value into our analysis? <br>
+9. Wow! That’s a really high percentage. That’s going to be very useful when we promote CrunchieMunchies. But one question is, how much variation exists in the dataset? Can we make the generalization that most cereals have around 100 calories or is the spread even greater? Calculate the amount of variation by finding the standard deviation</em Save your answer to calorie_std and print to the terminal. How can we incorporate this value into our analysis? <br>
 
-9. Write a short paragraph that sums up your findings and how you think this data could be used to myCorp’s advantage when marketing CrunchieMunchies.<br>
+10. Write a short paragraph that sums up your findings and how you think this data could be used to myCorp’s advantage when marketing CrunchieMunchies.<br>
 ## Conclusion :
 yes,CrunchieMunchies is the healthiest choice for consumers. Because, mean and average calories are greater than 100. Median is atleast half of the calories greater than 100. majority of calories greater than 100.
 
